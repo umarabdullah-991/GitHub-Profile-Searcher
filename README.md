@@ -34,8 +34,23 @@ The project can be deployed on any web hosting service that supports HTML, CSS, 
 4. View the retrieved user information and repositories.
 5. Click on the "Visit Profile" link to navigate to the GitHub profile.
 
+**Contributors:**
+- [Umar Abdullah](<https://github.com/umarabdullah-991>)
+- [Syed Aman Shah](<https://github.com/amanxsyed>)
+
 ### Additional Notes:
 
 - The project's codebase is organized into separate HTML, CSS, and JavaScript files for better maintainability.
 - Media queries are implemented to ensure proper display on different screen sizes.
 - The application provides feedback to users through alerts in case of invalid input or errors during data retrieval.
+
+**Feedback:**
+We welcome feedback and suggestions for improving the Weather App. Please feel free to submit any issues or feature requests via GitHub.
+
+**License:**
+This project is licensed under the [MIT License](<https://opensource.org/license/mit>).
+
+**Contact Us:**
+If you have any questions or inquiries, you can reach out to us via email at [umarabdullah.work@gmail.com](mailto:umarabdullah.work@gmail.com).
+
+**Thank you for using the  GitHub Profile Searcher!**
