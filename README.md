@@ -14,6 +14,7 @@ This project is a simple web application designed to allow users to search for G
 
 5. **Responsive Design:** The application is designed to be responsive, ensuring usability across various devices, including desktops, tablets, and mobile phones.
 
+
 ### Technologies Used:
 
 - **HTML5:** Markup language for structuring the web page.
@@ -22,9 +23,11 @@ This project is a simple web application designed to allow users to search for G
 - **GitHub API:** Used for retrieving user information and repositories.
 - **Boxicons:** Provides icons used in the project for enhanced user interface elements.
 
+
 ### Deployment:
 
 The project can be deployed on any web hosting service that supports HTML, CSS, and JavaScript files. A live deployment of this project can be accessed via the following link: [Github-Profile-Searcher](https://github-user-search-by-aman-umar.netlify.app/)
+
 
 ### How to Use:
 
@@ -34,9 +37,11 @@ The project can be deployed on any web hosting service that supports HTML, CSS, 
 4. View the retrieved user information and repositories.
 5. Click on the "Visit Profile" link to navigate to the GitHub profile.
 
+
 **Contributors:**
 - [Umar Abdullah](<https://github.com/umarabdullah-991>)
 - [Syed Aman Shah](<https://github.com/amanxsyed>)
+
 
 ### Additional Notes:
 
